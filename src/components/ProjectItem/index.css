@@ -1,0 +1,25 @@
+.listItem {
+  display: flex;
+  background-color: #ffffff;
+  height: 250px;
+  width: 300px;
+  border: 0px solid;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  border: #e2e8f0 1px solid;
+}
+
+.Project-Image-style {
+  height: 190px;
+  width: 299px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.project-para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}

@@ -1,0 +1,58 @@
+.main-container {
+  background-color: #e6e9ec;
+}
+
+.select-container {
+  background-color: #ffffff;
+  height: 40px;
+  width: 400px;
+  border: 1px #cbd5e1 solid;
+  font-size: 18px;
+  padding: 5px;
+  font-family: 'Roboto';
+  align-self: center;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.lists-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-heading {
+  color: #475569;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
+
+.failure-para {
+  color: #64748b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.Retry-button {
+  background-color: #328af2;
+  height: 40px;
+  width: 150px;
+  color: #ffffff;
+  font-size: 18px;
+  border: 0px solid;
+  text-align: center;
+}
+
+.Fail-image-style {
+  height: 400px;
+  width: 400px;
+}
